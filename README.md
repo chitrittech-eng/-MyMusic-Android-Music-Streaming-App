@@ -31,6 +31,17 @@ MyMusic is an Android music streaming app built for independent artists to uploa
 | Background Work | WorkManager |
 | Navigation | Navigation Compose |
 
+## 📸 Screenshots
+
+| Home | Now Playing | Artist Upload |
+|---|---|---|
+<img width="590" height="1280" alt="start" src="https://github.com/user-attachments/assets/a6c76c7a-2112-4126-ad83-0579001b3b5b" />
+
+---
+
+## 🎬 Demo Video
+
+
 
 ## 📂 Project Structure
 
