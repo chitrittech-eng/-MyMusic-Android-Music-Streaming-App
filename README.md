@@ -64,4 +64,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Built by [Your Name] — [your-email@example.com] — [LinkedIn Profile Link]
+Built by Chitrit Raaj Chauhan — chitrittech@gmail.com — www.linkedin.com/in/chitrit-raaj-chauhan-79a46924a
